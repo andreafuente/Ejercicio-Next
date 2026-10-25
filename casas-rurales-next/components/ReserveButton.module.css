@@ -1,0 +1,10 @@
+.reserveButton {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 100%;
+  font-size: 1rem;
+}
