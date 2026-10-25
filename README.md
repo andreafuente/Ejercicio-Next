@@ -1,6 +1,6 @@
-#Casas Rurales – Next.js
+# Casas Rurales – Next.js
 
-##Funcionalidades
+## Funcionalidades
 
 - Listado de casas rurales con imágenes e información básica.
 
